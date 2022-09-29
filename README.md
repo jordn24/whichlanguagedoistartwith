@@ -15,3 +15,9 @@ Short quiz that suggests a programming language to start learning based off what
 ```sh
 npm start
 ```
+
+## Screenshots
+
+![S1](Screenshot1.png?raw=true)
+![S2](Screenshot2.png?raw=true)
+![S3](Screenshot3.png?raw=true)
